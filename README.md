@@ -27,11 +27,15 @@ Set of exercises solved with Java
 1.3 Triangle.zip
   -- 
    Write a program that for a given natural number will print the ”triangle” as follows:
-n = 5
+  n = 5
 *
+
 **
+
 ***
+
 ****
+
 *****
 
 1.4 Coefficient.zip
