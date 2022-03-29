@@ -39,11 +39,20 @@ n = 5
   Write a program that for the given coefficients of quadratic equation will
 print the information about the roots.
 
-1.5 RandomNumbers
+1.5 RandomNumbers.zip
   --
 Write a program that will print the random numbers from the given interval (from 0 to n, where n is given by the user) until 0 is drawn. Print
 the numbers of attempts.
 
+1.6 ) Menu.zip
+  --
+Write a program that will print the menu (given below) with the appropriate functionalities.
+1. Option 1
+2. Option 2
+3. Option 3
+4. The end
+> 2
+You have chosen Option 2
 
 
     
