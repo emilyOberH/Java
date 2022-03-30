@@ -48,7 +48,7 @@ print the information about the roots.
 Write a program that will print the random numbers from the given interval (from 0 to n, where n is given by the user) until 0 is drawn. Print
 the numbers of attempts.
 
-1.6 ) Menu.zip
+1.6 Menu.zip
   --
 Write a program that will print the menu (given below) with the appropriate functionalities.
 1. Option 1
@@ -57,6 +57,11 @@ Write a program that will print the menu (given below) with the appropriate fun
 4. The end
 > 2
 You have chosen Option 2
+
+1.7 RandomArray.zip
+  --
+Write a program in which a five-element array of randomly generated
+integers will be created.
 
 
     
