@@ -30,13 +30,13 @@ Set of exercises solved with Java
   n = 5
 *
 
-**
+\**
 
-***
+\***
 
-****
+\****
 
-*****
+\*****
 
 1.4 Coefficient.zip
   --
@@ -63,5 +63,10 @@ You have chosen Option 2
 Write a program in which a five-element array of randomly generated
 integers will be created.
 
-
+1.8
+  --
+  
+2.1 Excep.zip
+  --
+  Handle error ArithmeticException and InputMismatchException
     
