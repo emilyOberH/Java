@@ -63,8 +63,11 @@ You have chosen Option 2
 Write a program in which a five-element array of randomly generated
 integers will be created.
 
-1.8
+1.8 BankAccount.zip
   --
+Create the program that manages the bank accounts of the
+given owner. Think of the appropriate fields and methods. Test the
+program.
   
 2.1 Excep.zip
   --
