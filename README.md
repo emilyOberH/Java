@@ -72,4 +72,9 @@ program.
 2.1 Excep.zip
   --
   Handle error ArithmeticException and InputMismatchException
-    
+  
+3.1 Class.zip
+  --
+  Based on the presented examples, build a project with the classes shown in
+the diagram. Use the appropriate fields (also a static field) and methods.
+
