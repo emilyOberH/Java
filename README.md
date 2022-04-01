@@ -73,8 +73,8 @@ program.
   --
   Handle error ArithmeticException and InputMismatchException
   
-3.1 Class.zip
+3.1 Firm.zip
   --
   Based on the presented examples, build a project with the classes shown in
-the diagram. Use the appropriate fields (also a static field) and methods.
+the diagram: Employee, Office Employee(subclass of employee), Boss(subclass of employee), Accountant(subclass of office employee). Use the appropriate fields (also a static field) and methods.
 
