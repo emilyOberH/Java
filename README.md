@@ -80,6 +80,6 @@ the diagram: Employee, Office Employee(subclass of employee), Boss(subclass of e
 
 3.2 Animals.zip
   --
-  Build a project with the classes shown in the diagram: Animal, Dog (subclass of animal), Cat(subclass of animal), Mause(subclass of animal), Puppy(subclass of dog), Tiger (subclass of cat), Puma (subclass of cat). Use the appropriate
+  Build a project with the classes shown in the diagram: Animal, Dog (subclass of animal), Cat(subclass of animal), Mouse(subclass of animal), Puppy(subclass of dog), Tiger (subclass of cat), Puma (subclass of cat). Use the appropriate
 fields, methods connected with eating and voices, override methods
 
