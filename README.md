@@ -78,3 +78,8 @@ program.
   Based on the presented examples, build a project with the classes shown in
 the diagram: Employee, Office Employee(subclass of employee), Boss(subclass of employee), Accountant(subclass of office employee). Use the appropriate fields (also a static field) and methods.
 
+3.2
+  --
+  Build a project with the classes shown in the diagram: Animal, Dog (subclass of animal), Cat(subclass of animal), Mause(subclass of animal), Puppy(subclass of dog), Tiger (subclass of cat), Puma (subclass of cat). Use the appropriate
+fields, methods connected with eating and voices, override methods
+
