@@ -83,3 +83,10 @@ the diagram: Employee, Office Employee(subclass of employee), Boss(subclass of e
   Build a project with the classes shown in the diagram: Animal, Dog (subclass of animal), Cat(subclass of animal), Mouse(subclass of animal), Puppy(subclass of dog), Tiger (subclass of cat), Puma (subclass of cat). Use the appropriate
 fields, methods connected with eating and voices, override methods
 
+4.1 Pattern2.zip
+  --
+  Build a project with the classes shown in the diagram: Pattern (abstract class with the abstarct method printPattern), OneLinePattern, TwoLinePattern, ThreeLinePattern. Think about fields
+for the patterns. Put the constructors for the classes OneLinePattern,
+TwoLinePattern, ThreeLinePattern. For the class with the method main
+give the name Patterns.
+
