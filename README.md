@@ -90,3 +90,6 @@ for the patterns. Put the constructors for the classes OneLinePattern,
 TwoLinePattern, ThreeLinePattern. For the class with the method main
 give the name Patterns.
 
+4.2 
+  --
+  Build a project shown in the diagram.
